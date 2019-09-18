@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+seaborn
+strato-query==3.2.0
+jupyter_nbextensions_configurator
+autopep8
+requests
